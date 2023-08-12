@@ -1,0 +1,46 @@
+2) two threads as evenfactor and oddfactor
+accept parameter as integer.
+evenfactor thread will display addition of even factors of given numbers
+oddfactor thread will display addition of odd factors of given numbers
+after execution of both threads gets completed main thread should display message as "exit from main"
+
+3) 
+
+
+1) accept filename from user and check if file exist in current directory
+Input: Demo.txt
+check if Demo.txt exist
+
+2) recursive program to display pattern
+input 5
+output 1 2 3 4 5
+
+3) recursive program to display pattern
+input 5
+output 5 4 3 2 1
+
+4) accept input from user and return summation of digits
+
+input 123
+output 6
+
+5) accept input from user and return faactorial of it
+
+input 5
+output 120
+
+
+
+
+
+
+
+list process
+grep selected process
+schedue call to restart process 
+append message into file 
+send that file via email that process is restarted
+
+list process of hourly 
+append it into hourly log file
+send that file via email that process is restarted
